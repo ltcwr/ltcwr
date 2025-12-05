@@ -1,16 +1,26 @@
-## Hi there 👋
+# ltcwr
 
-<!--
-**ltcwr/ltcwr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧩 Solidity Developer  
+Engineering secure and efficient smart contracts with a focus on clarity, testing, and long-term reliability.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ About My Work
+
+I specialize in **Solidity**, **Foundry**, and modern EVM development workflows.  
+My engineering approach emphasizes:
+
+-  Robust smart contract architecture  
+-  Security-oriented development practices  
+-  High-quality testing & simulations  
+-  Gas-efficient implementation patterns  
+
+---
+
+
+## 🚀 Current Focus
+
+Refining protocol-level components, improving reliability through advanced testing setups,  
+and iterating on developer tooling around the EVM.
+
+---
