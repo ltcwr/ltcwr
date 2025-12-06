@@ -22,5 +22,3 @@ My engineering approach emphasizes:
 
 Refining protocol-level components, improving reliability through advanced testing setups,  
 and iterating on developer tooling around the EVM.
-
----
