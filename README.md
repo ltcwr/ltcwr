@@ -1,24 +1,39 @@
 # ltcwr
 
-### 🧩 Solidity Developer  
-Engineering secure and efficient smart contracts with a focus on clarity, testing, and long-term reliability.
+Blockchain / Smart Contract Developer focused on **Solidity**, **DeFi**, and **on-chain security**.
+
+I build smart contracts with a strong emphasis on **understanding how things work under the hood**, writing **clean and testable code**, and continuously improving my technical edge in the blockchain ecosystem.
 
 ---
 
-## 🛠️ About My Work
-
-I specialize in **Solidity**, **Foundry**, and modern EVM development workflows.  
-My engineering approach emphasizes:
-
--  Robust smart contract architecture  
--  Security-oriented development practices  
--  High-quality testing & simulations  
--  Gas-efficient implementation patterns  
+## 🔐 Focus Areas
+- Smart contracts & DeFi protocols
+- Solidity & EVM internals
+- Security mindset (audits, attack surfaces, best practices)
+- Tooling & experimentation (Foundry-based workflows)
 
 ---
 
+## 🛠 Tech Stack
 
-## 🚀 Current Focus
+**Languages**  
+Solidity · Python · Go (basic) · Rust (basic)
 
-Refining protocol-level components, improving reliability through advanced testing setups,  
-and iterating on developer tooling around the EVM.
+**Frameworks / Tooling**  
+Foundry · Git · Linux · VS Code
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ltcwr&show_icons=true&hide_title=true&theme=github_dark)
+
+
+
+---
+
+## 🧠 Currently Working On
+- Improving Solidity patterns & testing strategies
+- DeFi-oriented smart contracts
+- Learning security concepts through practice and code reviews
+
