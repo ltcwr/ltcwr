@@ -24,13 +24,6 @@ Foundry · Git · Linux · VS Code
 
 ---
 
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ltcwr&show_icons=true&hide_title=true&theme=github_dark)
-
-
-
----
 
 ## 🧠 Currently Working On
 - Improving Solidity patterns & testing strategies
