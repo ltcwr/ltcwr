@@ -1,32 +1,41 @@
-# ltcwr
+# 👋 Hey, I’m **ltcwr**
 
-Blockchain / Smart Contract Developer focused on **Solidity**, **DeFi**, and **on-chain security**.
+I work on **blockchain systems** where **security**, **privacy**, and **money** actually matter.
 
-I build smart contracts with a strong emphasis on **understanding how things work under the hood**, writing **clean and testable code**, and continuously improving my technical edge in the blockchain ecosystem.
+Most of my time goes into building **smart contracts** and **backend tooling**, with a strong focus on **Solidity**, **DeFi**, and writing **code that’s easy to read, reason about, and audit**.
+
+From time to time, I also dive into side projects completely unrelated to blockchain  
+
 
 ---
 
-## 🔐 Focus Areas
-- Smart contracts & DeFi protocols
-- Solidity & EVM internals
-- Security mindset (audits, attack surfaces, best practices)
-- Tooling & experimentation (Foundry-based workflows)
+## 🧭 What I focus on
+
+-  Smart contracts & DeFi protocols  
+-  Solidity & EVM internals  
+-  Security-oriented development  
+-  Blockchain tooling & small CLI tools  
 
 ---
 
-## 🛠 Tech Stack
+## 🧱 Tech stack
 
-**Languages**  
-Solidity · Python · Go (basic) · Rust (basic)
-
-**Frameworks / Tooling**  
-Foundry · Git · Linux · VS Code
+- **Solidity**
+- **Go**
+- **Python** (when it gets the job done)
+- **Foundry**
 
 ---
 
+## 🚧 What I’m up to now
 
-## 🧠 Currently Working On
-- Improving Solidity patterns & testing strategies
-- DeFi-oriented smart contracts
-- Learning security concepts through practice and code reviews
+- Building **DeFi-related contracts**
+- Running a **YouTube channel** to explain programming & blockchain concepts
+- Learning **Rust** (slowly, properly)
 
+---
+
+## 📬 Get in touch
+
+- **Telegram**: [@ymirog](https://t.me/ymirog)
+- **X / Twitter**: [@xltcwr](https://x.com/xltcwr)
