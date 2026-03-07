@@ -1,37 +1,51 @@
 # 👋 Hey, I’m **ltcwr**
 
-I work on **blockchain systems** where **security**, **privacy**, and **money** actually matter.
+I build **backend systems and APIs**, mostly in Go with a focus on reliability, simplicity, and clean architecture.
 
-Most of my time goes into building **smart contracts** and **backend tooling**, with a strong focus on **Solidity**, **DeFi**, and writing **code that’s easy to read, reason about, and audit**.
+My background comes from **blockchain development** where working with security, financial logic, and adversarial environments shaped how I approach software today.
 
-From time to time, I also dive into side projects completely unrelated to blockchain  
-
+These days I spend most of my time building cloud services, backend infrastructure, and developer tools.
 
 ---
 
 ## 🧭 What I focus on
 
--  Smart contracts & DeFi protocols  
--  Solidity & EVM internals  
--  Security-oriented development  
--  Blockchain tooling & small CLI tools  
+- Backend services & APIs
+- Cloud-native systems
+- Go services & tooling
+- Clean architecture & maintainable code
+- Security-aware development
 
 ---
 
 ## 🧱 Tech stack
 
-- **Solidity**
-- **Go**
-- **Python** (when it gets the job done)
-- **Foundry**
+- Go
+- Python
+- Docker
+- PostgreSQL
+
+Past / occasional work:
+- Solidity
+- EVM & smart contracts
+- Foundry
+
+---
+
+## ⚙️ Things I like building
+
+- REST / RPC APIs
+- Internal tools & CLI utilities
+- Distributed backend services
+- Systems that are easy to read, reason about, and maintain
 
 ---
 
 ## 🚧 What I’m up to now
 
-- Building **DeFi-related contracts**
-- Running a **YouTube channel** to explain programming & blockchain concepts
-- Learning **Rust** (slowly, properly)
+- Building **cloud/backend services in Go**
+- Experimenting
+- Occasionally working on blockchain & smart contract projects
 
 ---
 
