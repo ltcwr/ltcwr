@@ -27,3 +27,6 @@ Interested in building reliable software, distributed systems and tools that are
 
 * Telegram: @ymirog
 * X/Twitter: @xltcwr
+* Check my [Blog](https://ltcwr.github.io)
+
+
