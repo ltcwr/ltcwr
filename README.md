@@ -25,8 +25,8 @@ Interested in building reliable software, distributed systems and tools that are
 
 ### 📬 Contact
 
-* Telegram: @ymirog
-* X/Twitter: @xltcwr
+* Telegram: [@ymirog](https://t.me/ymirog)
+* X/Twitter: [@xltcwr](https://x.com/xltcwr)
 * Check my [Blog](https://ltcwr.github.io)
 
 
