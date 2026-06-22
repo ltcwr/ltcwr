@@ -1,32 +1,25 @@
 # 👋 ltcwr
 
-Backend builder focused on blockchain and AI tooling.
+Building backend systems, AI tooling and blockchain infrastructure with Go.
 
-I build APIs, backend services and developer tools with Go.
-Most of my work revolves around backend infrastructure, web3 systems and experimenting with AI-related tooling.
+I enjoy creating software that is reliable, simple to maintain and easy to reason about.
 
-Interested in building reliable software, distributed systems and tools that are simple to maintain and reason about.
+Most of my work revolves around:
+- AI observability
+- Developer tooling
+- Web3 infrastructure
+- Backend APIs and services
 
 ### ⚙️ Stack
 
-* Go
-* Python
-* PostgreSQL
-* Docker
-* Solidity
-
-### 🧭 Interests
-
-* Backend systems
-* Web3 infrastructure
-* AI tooling
-* Developer tools
-* Distributed services
+- Go
+- Python
+- PostgreSQL
+- Docker
+- Solidity
 
 ### 📬 Contact
 
-* Telegram: [@ymirog](https://t.me/ymirog)
-* X/Twitter: [@xltcwr](https://x.com/xltcwr)
-* Check my [Blog](https://ltcwr.github.io)
-
-
+- Telegram: @ymirog
+- X: @xltcwr
+- Blog: ltcwr.github.io
