@@ -2,24 +2,18 @@
 
 Building backend systems, AI tooling and blockchain infrastructure with Go.
 
-I enjoy creating software that is reliable, simple to maintain and easy to reason about.
+Focused on reliability, observability and developer experience.
 
-Most of my work revolves around:
-- AI observability
-- Developer tooling
-- Web3 infrastructure
-- Backend APIs and services
-
-### ⚙️ Stack
+## Stack : 
 
 - Go
-- Python
+- Python 
 - PostgreSQL
-- Docker
+- Docker 
 - Solidity
 
-### 📬 Contact
+## Contact : 
 
-- Telegram: @ymirog
-- X: @xltcwr
-- Blog: ltcwr.github.io
+Telegram: @ymirog  
+X: @xltcwr  
+Blog: ltcwr.github.io
